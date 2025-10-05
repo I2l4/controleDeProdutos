@@ -45,7 +45,7 @@ Siga estas etapas para executar o sistema localmente:
    - Certifique-se de que o servidor PHP esteja em execução.
 
 4. **Acessar o Sistema**:
-   - 🔗 Abra o navegador e acesse: `[http://localhost:3000/produtos.]`
+   - 🔗 Abra o navegador e acesse: `http://localhost:3000/produtos.`
 
 ## Como Usar
 1. 🔍 Abra o sistema no navegador.
