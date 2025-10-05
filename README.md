@@ -15,16 +15,19 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) para c
 - **PHP**: 💻 Lógica de backend para manipulação de dados.
 
 ## Capturas de Tela aqui:
-![image](https://github.com/user-attachments/assets/30c37d07-b979-4fab-b432-e76ebde1c26f)
+## Capturas de Tela
 
+### 📝 Adicionando Produtos
+![Adicionando Produtos](img/AdicionandoProdutos.png)
 
-![image](https://github.com/user-attachments/assets/74742ed7-9e5f-41ed-98c7-1bba2714c1d7)
+### ➕ Adicionar Produto
+![Adicionar Produto](img/AdicionarProdutos.png)
 
+### 📋 Controle de Produtos
+![Controle de Produtos](img/ControleDeProdutos.png)
 
-![image](https://github.com/user-attachments/assets/151c0916-3961-4f71-9d2d-6ecd4ad66981)
-
-
-![image](https://github.com/user-attachments/assets/fad4b1ed-1b27-4722-8de7-665e5a0b8cf5)
+### ❌ Deletar Produto
+![Deletar Produto](img/DeletarProdutos.png)
 
 
 
