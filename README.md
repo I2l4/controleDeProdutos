@@ -14,8 +14,7 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) para c
 - **JavaScript**: 💡 Funcionalidades dinâmicas na interface.
 - **PHP**: 💻 Lógica de backend para manipulação de dados.
 
-## Capturas de Tela
-
+## Capturas de Tela aqui:
 ![image](https://github.com/user-attachments/assets/30c37d07-b979-4fab-b432-e76ebde1c26f)
 
 
