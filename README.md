@@ -17,17 +17,16 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) para c
 ## Capturas de Tela aqui:
 ## Capturas de Tela
 
-### 📝 Adicionando Produtos
-![Adicionando Produtos](img/AdicionandoProdutos.png)
-
-### ➕ Adicionar Produto
-![Adicionar Produto](img/AdicionarProdutos.png)
 
 ### 📋 Controle de Produtos
 ![Controle de Produtos](img/ControleDeProdutos.png)
 
+
+### ➕ Adicionar Produto
+![Adicionar Produtos At](img/AdicionarProdutosAt.png)
+
 ### ❌ Deletar Produto
-![Deletar Produto](img/DeletarProdutos.png)
+![Excluindo Produtos](img/ExcluindoProdutos.png)
 
 
 
