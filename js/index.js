@@ -151,8 +151,13 @@ function preencherTabela(produtos) {
         tdValor.textContent = aplicarMascaraParaRealComPrefixo (produto.valor);
 
         tdAcoes.innerHTML = `
-        <button onclick="editarProduto(${produto.id})" class="btn btn-link">Editar</button> /  
-        <button onclick="excluirProduto(${produto.id})" class="btn btn-link">Excluir</button>`;
+        <button onclick="editarProduto(${produto.id})" class="btn btn-editar btn-sm">
+           <i class="fa-solid fa-pen-to-square"></i> Editar
+        </button>
+        
+        <button onclick="excluirProduto(${produto.id})" class="btn btn-excluir btn-sm">
+           <i class="fa-solid fa-trash-can"></i> Excluir
+        </button>`;
      
         
 
